@@ -1,2 +1,3 @@
 com\javabunga\springbootexample\SpringBootExampleApplication.class
 com\javabunga\springbootexample\web\HelloWorldController.class
+com\javabunga\springbootexample\web\ConnectionManager.class
